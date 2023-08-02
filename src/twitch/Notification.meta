@@ -20,6 +20,13 @@
     "fps": 60,
     "resolutionScale": 2,
     "colorSpace": "srgb",
+    "exporter": {
+      "name": "@motion-canvas/ffmpeg",
+      "options": {
+        "fastStart": true,
+        "includeAudio": true
+      }
+    },
     "fileType": "image/png",
     "quality": 1,
     "groupByScene": false
